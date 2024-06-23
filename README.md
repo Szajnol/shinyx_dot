@@ -8,8 +8,7 @@ This minigame is simple just follow the circle with your mouse cursor and win
 
 ## Preview
 
-[![Watch the video](https://cdn.discordapp.com/attachments/985607890100437063/1200452405855269025/JustInteractions.png?ex=65c63b6c&is=65b3c66c&hm=72524b8ee4f3c61b1404a89195dcb3e36db5a64bd1d3e731d6211d3dbf4f0537&)](https://www.youtube.com/watch?v=_-EccJg5jOk)
-
+![image](https://github.com/Szajnol/shinyx_dot/assets/118669019/25d94910-d91f-423d-b533-2deef84e017e)
 
 
 ## Usage/Examples
