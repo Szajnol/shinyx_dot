@@ -1,0 +1,80 @@
+/* Font */
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap");
+
+/* * */
+* {
+  box-sizing: border-box;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+
+body{
+  overflow: hidden;
+  font-family: "Urbanist", sans-serif;
+  color: white;
+  font-size: 1vw;
+}
+
+.minigame-container{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background: #120D14;
+  width: 45vw;
+  height: 45vw;
+  background: linear-gradient(#120D14, #120D14) padding-box,
+              linear-gradient(180deg, #45334e, #18121b) border-box;
+  border-radius: 0.5vw;
+  border: 4px solid transparent;
+}
+
+.minigame-fill{
+  position: absolute;
+  left: 107%;
+  top: 50%;
+  transform: translate(-100%, -50%);
+  background: #120D14;
+  width: 1.5vw;
+  height: 45vw;
+  background: #120D14;
+  border-radius: 2vw;
+}
+
+.fill{
+  background: #E582C4;
+  width: 100%;
+  border-radius: 2vw;
+}
+
+.minigame-title{
+  position: absolute;
+  left: 50%;
+  top: 95%;
+  transform: translateX(-50%);
+  background: #120D14;
+  width: 30vw;
+  height: 5vw;
+  z-index: 99;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  background: linear-gradient(#120D14, #120D14) padding-box,
+              linear-gradient(180deg, #45334e, #18121b) border-box;
+  border-radius: 0.5vw;
+  border: 4px solid transparent;
+}
+
+.circle{
+  position: relative;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 3vw;
+  height: 3vw;
+  border-radius: 100%;
+  background: #E582C4;
+}
+
