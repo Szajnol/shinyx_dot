@@ -3,7 +3,9 @@
 ## ShinyX-Dot
 
 
-This minigame is simple just follow the circle with your mouse cursor and win
+This minigame is simple just follow the circle with your mouse cursor and win inspired by Fivecity
+
+https://discord.gg/WbmJpZ3fyr
 
 
 ## Preview
